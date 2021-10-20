@@ -6,4 +6,4 @@ This is a project management system built with Laravel 5.5
 3. Signup a user and log in Enjoy
 That's all, you are good to go.
 # License
-This software is open-sourced software licensed under the MIT license.
+This software is open-sourced software licensed under the [MIT license].
